@@ -1,0 +1,21 @@
+Service, Customer name, Customer phone ,Appointment time
+cut,John Smith,555-1234,2024-11-22 10:00:00
+color Polish,Emily Johnson,555-5678,2024-11-25 14:00:00
+perm,Michael Brown,555-9012,2024-11-23 11:00:00
+style,Sarah Lee,555-1111,2024-11-24 13:00:00
+trim,David Kim,555-2222,2024-11-26 09:00:00
+cut,Emily Johnson,555-5678,2024-11-28 10:00:00
+color Polish,John Smith,555-1234,2024-11-29 14:00:00
+perm,Sarah Lee,555-1111,2024-11-30 11:00:00
+style,Michael Brown,555-9012,2024-12-01 13:00:00
+trim,David Kim,555-2222,2024-12-02 09:00:00
+cut,Michael Brown,555-9012,2024-12-03 10:00:00
+color Polish,Sarah Lee,555-1111,2024-12-04 14:00:00
+perm,David Kim,555-2222,2024-12-05 11:00:00
+style,Emily Johnson,555-5678,2024-12-06 13:00:00
+trim,John Smith,555-1234,2024-12-07 09:00:00
+cut,SarahLee,555-1111,2024-12-08 10:00:00
+color Polish,Michael Brown,555-9012,2024-12-09 14:00:00
+perm,David Kim,555-2222,2024-12-10 11:00:00
+style,John Smith,555-1234,2024-12-11 13:00:00
+trim,Emily Johnson,555-5678,2024-12-12 09:00:00
